@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="servlet-api1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/web实现注册登录功能源代码/reg_login/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web实现注册登录功能源代码/reg_login/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web实现注册登录功能源代码/reg_login/WebContent/WEB-INF/lib/commons-io-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
